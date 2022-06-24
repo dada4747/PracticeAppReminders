@@ -13,6 +13,7 @@
 		84F817A528544770007894F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F817A328544770007894F6 /* Main.storyboard */; };
 		84F817A728544775007894F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 84F817A628544775007894F6 /* Assets.xcassets */; };
 		84F817AA28544775007894F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84F817A828544775007894F6 /* LaunchScreen.storyboard */; };
+		84F817B2285458F5007894F6 /* ReminderTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84F817B1285458F5007894F6 /* ReminderTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		84F817A628544775007894F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		84F817A928544775007894F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84F817AB28544775007894F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84F817B1285458F5007894F6 /* ReminderTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				84F8179D28544770007894F6 /* AppDelegate.swift */,
 				84F8179F28544770007894F6 /* SceneDelegate.swift */,
 				84F817A128544770007894F6 /* ViewController.swift */,
+				84F817B1285458F5007894F6 /* ReminderTableViewCell.swift */,
 				84F817A328544770007894F6 /* Main.storyboard */,
 				84F817A628544775007894F6 /* Assets.xcassets */,
 				84F817A828544775007894F6 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				84F817A228544770007894F6 /* ViewController.swift in Sources */,
 				84F8179E28544770007894F6 /* AppDelegate.swift in Sources */,
 				84F817A028544770007894F6 /* SceneDelegate.swift in Sources */,
+				84F817B2285458F5007894F6 /* ReminderTableViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
